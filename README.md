@@ -1,7 +1,9 @@
 ### Brynna Watring 👋
 Hello World 
 **`Software Enginner UTSA`**
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+
+I'm an computer science student at UTSA. I graduate in May of 2023. I am currently seeking jobs in software development non specific however any branch or field under that way. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -36,12 +38,11 @@ I'm an indie full-stack developer and content creator building my version of the
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my Bachelor's of Computer Science 
+- 🌱 I’m currently learning backend development at my internship with UTSA's tech team
+- 👯 I’m looking to collaborate on any bussiness ideas or plans 
+- 💬 Ask me about anything @ brynwatstx@gmail.com 
+- 📫 How to reach me: https://www.linkedin.com/in/brynna-watring-964957181/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a strong desire to pursue law school at some point 
 
