@@ -2,7 +2,7 @@
 Hello World 
 **`Software Enginner UTSA`**
 
-I'm an computer science student at UTSA. I graduate in May of 2023. I am currently seeking jobs in software development non specific however any branch or field under that way. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
+I'm a computer science student at UTSA. I graduate in May of 2023. I am currently seeking jobs in software development non specific however any branch or field under that way. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
 
 
    <p align="left">
