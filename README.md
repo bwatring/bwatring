@@ -9,7 +9,7 @@ I'm a computer science student at UTSA. I graduate in May of 2023. I am currentl
       <a href="https://www.linkedin.com/in/brynna-watring-964957181/">
          <img alt="linkedln" title="Find me on Linkedln" src="https://www.flaticon.com/free-icon/linkedin-logo_61109"/></a> 
       <a href="https://app.joinhandshake.com/stu/users/13383363">
-         <img alt="Find me Handshake" title="Befriend me on Handshake" src="https://app.joinhandshake.com/stu/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="Find me Handshake" title="Befriend me on Handshake" src="https://app.joinhandshake.com/stu"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
