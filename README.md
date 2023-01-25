@@ -7,13 +7,15 @@ I'm a computer science student at UTSA. I graduate in May of 2023. I am currentl
 
    <p align="left">
       <a href="https://www.linkedin.com/in/brynna-watring-964957181/">
-         <img alt="linkedln" title="Find me on Linkedln" src="https://www.flaticon.com/free-icon/linkedin-logo_61109"/></a> 
+         <img alt="Linkedln   " title="Linkedln" src="https://www.flaticon.com/free-icon/linkedin-logo_61109"/></a> 
       <a href="https://app.joinhandshake.com/stu/users/13383363">
-         <img alt="Find me Handshake" title="Befriend me on Handshake" src="https://app.joinhandshake.com/stu"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="|| Handshake" title="Befriend me on Handshake" src="https://app.joinhandshake.com/stu"/></a> 
+     </p>
+        <p align="left">
+      <a href="https://github.com/bwatring?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bwatring?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/bwatring?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bwatring?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ### 🧰 Languages and Tools
