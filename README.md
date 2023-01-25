@@ -36,9 +36,9 @@ I'm a computer science student at UTSA. I graduate in May of 2023. I am currentl
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Brynna's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwatring&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bwatring&theme=gruvbox&border_radius=4.5) -->
 
 Here are some ideas to get you started:
 
