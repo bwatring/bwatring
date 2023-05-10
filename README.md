@@ -42,7 +42,7 @@ I'm a computer science student at UTSA. I graduate in May of 2023. I am currentl
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=bwatring&theme=gruvbox&border_radius=4.5) -->
 
-Here are some ideas to get you started:
+More about me:
 
 - 🔭 I’m currently working on my Bachelor's of Computer Science 
 - 🌱 I’m currently learning backend development at my internship with UTSA's tech team
@@ -50,5 +50,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything @ brynwatstx@gmail.com 
 - 📫 How to reach me: https://www.linkedin.com/in/brynna-watring-964957181/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a strong desire to pursue law school at some point 
 
