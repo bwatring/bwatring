@@ -44,8 +44,8 @@ I was a computer science student at UTSA. I graduated in May of 2023. I am curre
 
 More about me:
 
-- 🔭 I’m currently working on my Bachelor's of Computer Science 
-- 🌱 I’m currently learning backend development at my internship with UTSA's tech team
+- 🔭 I’m a Computer Science graduate student from UTSA 
+- 🌱 I was learning backend development at my internship with UTSA's tech team
 - 👯 I’m looking to collaborate on any bussiness ideas or plans 
 - 💬 Ask me about anything @ brynwatstx@gmail.com 
 - 📫 How to reach me: https://www.linkedin.com/in/brynna-watring-964957181/
