@@ -1,8 +1,8 @@
 ### Brynna Watring 👋
 Hello World 
-**`Software Enginner UTSA`**
+**`Federal Software Enginner @ Accenture`**
 
-I'm a computer science student at UTSA. I graduate in May of 2023. I am currently seeking jobs in software development non specific however any branch or field under that way. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
+I was a computer science student at UTSA. I graduated in May of 2023. I am currently a federal software engineer at the associate level. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
 
 
    <p align="left">
