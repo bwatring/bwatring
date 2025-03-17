@@ -2,7 +2,7 @@
 Hello World 
 **`Federal Software Enginner @ Accenture`**
 
-I was a computer science student at UTSA. I graduated in May of 2023. I am currently a federal software engineer at the associate level. I love creating things and coding projects that are built from the ground up. I love  planning and designing all the way to solving real-life problems with code.
+I was a computer science student at UTSA. I graduated in May of 2023. I am currently a federal software engineer at the analyst level. I enjoy creating things and coding projects that are built from the ground up. I love planning and designing all the way to solving real-life problems with code.
 
 
    <p align="left">
@@ -45,8 +45,7 @@ I was a computer science student at UTSA. I graduated in May of 2023. I am curre
 More about me:
 
 - 🔭 I’m a Computer Science graduate student from UTSA 
-- 🌱 I was learning backend development at my internship with UTSA's tech team
-- 👯 I’m looking to collaborate on any bussiness ideas or plans 
+- 🌱 I learned about backend development/devops at my internship with UTSA's tech team
 - 💬 Ask me about anything @ brynwatstx@gmail.com 
 - 📫 How to reach me: https://www.linkedin.com/in/brynna-watring-964957181/
 - 😄 Pronouns: she/her
